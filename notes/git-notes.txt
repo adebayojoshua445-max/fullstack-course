@@ -1,1 +1,2 @@
 commit is actually updating git about a change i made in my working directory
+after you have added the exact thing you want to add then you would commit but look at the status first before doing that
