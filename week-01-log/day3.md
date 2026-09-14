@@ -1,0 +1,1 @@
+Git commands was introduced which are used to save/document repositories. staging and commiting changes was emphasized and checking the status of the work page before imputing any git command was stressed
