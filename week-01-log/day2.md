@@ -1,0 +1,1 @@
+Directory and File master class where creation of folders and files were taught using command line like mkdir and touch respectively, navigartion within the folder was alson taught tht involves command line like pwd, ls and so on. moving/renamimg and transfering file from one identity to another with different inodes was established
