@@ -1,0 +1,1 @@
+GITHUB MASTER CLASS: repositories dont exist on the local device alone, a copy can be remote where others can view it and can be stired incase local source become compromised. command line for doing all this was taught and the lesson ended with littkle task to test for understanding and efficiency
